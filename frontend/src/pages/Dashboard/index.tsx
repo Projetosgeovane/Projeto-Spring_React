@@ -33,4 +33,4 @@ const Dashboard = () => {
     );
 }
 
-export default tashboard;
+export default Dashboard;
